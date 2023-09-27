@@ -1,0 +1,2 @@
+# Amity
+Multipurpose Discord Bot
